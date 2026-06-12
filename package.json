@@ -1,0 +1,10 @@
+{
+  "name": "cake-project",
+  "version": "1.0.0",
+  "description": "Root package.json to run client and server easily",
+  "scripts": {
+    "server": "npm start --prefix server",
+    "client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server"
+  }
+}
