@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
   const featuredCakes = [
-    { id: 1, name: 'Truffle Chocolate', price: 25.99, image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80', rating: 4.8 },
-    { id: 2, name: 'Strawberry Dream', price: 22.50, image: 'https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80', rating: 4.9 },
-    { id: 3, name: 'Vanilla Vanilla', price: 18.00, image: 'https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80', rating: 4.7 }
+    { id: 1, name: 'Truffle Chocolate', price: 2079, image: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80', rating: 4.8 },
+    { id: 2, name: 'Strawberry Dream', price: 1800, image: 'https://images.unsplash.com/photo-1565958011703-44f9829ba187?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80', rating: 4.9 },
+    { id: 3, name: 'Vanilla Vanilla', price: 1440, image: 'https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80', rating: 4.7 }
   ];
 
   return (
