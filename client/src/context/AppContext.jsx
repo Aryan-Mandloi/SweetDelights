@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
 const AppContext = createContext();
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://sweetdelights-2jv4.onrender.com/api';
 
 export const AppProvider = ({ children }) => {
   // --- DARK MODE STATE ---
