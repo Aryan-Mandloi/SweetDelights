@@ -175,7 +175,7 @@ const Support = () => {
                   </div>
                   <div>
                     <span className="block text-secondary dark:text-white text-sm font-bold">Direct Hotline</span>
-                    <span className="text-gray-400 text-xs font-medium">+1 (800) 555-CAKE</span>
+                    <span className="text-gray-400 text-xs font-medium">07314062475</span>
                   </div>
                 </div>
 
@@ -185,7 +185,7 @@ const Support = () => {
                   </div>
                   <div>
                     <span className="block text-secondary dark:text-white text-sm font-bold">Oven Hours</span>
-                    <span className="text-gray-400 text-xs font-medium">Mon - Sun: 8:00 AM - 9:00 PM</span>
+                    <span className="text-gray-400 text-xs font-medium">Open at 10.30 in morning till 10.00 night</span>
                   </div>
                 </div>
 
@@ -195,7 +195,7 @@ const Support = () => {
                   </div>
                   <div>
                     <span className="block text-secondary dark:text-white text-sm font-bold">Boutique Kitchen</span>
-                    <span className="text-gray-400 text-xs font-medium">456 Frosting Avenue, Patisserie Plaza, Suite 10</span>
+                    <span className="text-gray-400 text-xs font-medium">Beside Mataji Ka Mandir Scheme No. 54, Scheme No 54, Indore, Madhya Pradesh 452010</span>
                   </div>
                 </div>
               </div>
